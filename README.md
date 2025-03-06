@@ -37,9 +37,8 @@ I am a motivated second-year **B.Tech CSE student specializing in Artificial Int
 - **Fine Arts Club** (Sharda University)
 
 ## 📫 Contact Me
-- 📞 Phone: +91 8860077500
 - 📧 Email: [khushi7narang@gmail.com](mailto:khushi7narang@gmail.com)
 - 🔗 LinkedIn: [Khushi Narang](https://www.linkedin.com/in/khushi-narang-b984342aa/)
 - 💻 GitHub: [khushi-narang](https://github.com/khushi-narang)
-- 📄 Resume: [Click Here to View](https://github.com/khushi-narang/khushi-narang/blob/main/Khushi_Narang_Resume.pdf)
+- 📄 Resume: [Click Here to View](https://github.com/khushi-narang/khushi-narang/blob/main/Resume.pdf)
 
