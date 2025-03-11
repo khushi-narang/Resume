@@ -1,7 +1,7 @@
-# 💼 Khushi Narang - Resume
+# 💼 Khushi Narang - Resume 
 
 ## 👩‍💻 About Me
-I am a motivated second-year **B.Tech CSE student specializing in Artificial Intelligence and Machine Learning** at **Sharda University**, with a **CGPA of 9.2**. I have a strong foundation in **programming, machine learning, data structures, and web development**. I am seeking an **internship in software engineering, ML engineering, or web development** to gain hands-on experience and contribute to innovative projects.
+I am a motivated second-year **B.Tech CSE student specializing in Artificial Intelligence and Machine Learning** at **Sharda University**, with a **CGPA of 8.7**. I have a strong foundation in **programming, machine learning, data structures, and web development**. I am seeking an **internship in software engineering, ML engineering, or web development** to gain hands-on experience and contribute to innovative projects.
 
 ## 🚀 Skills
 - **Programming Languages:** Java, Python, C
