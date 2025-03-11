@@ -5,8 +5,8 @@ I am a motivated second-year **B.Tech CSE student specializing in Artificial Int
 
 ## 🚀 Skills
 - **Programming Languages:** Java, Python, C
-- **Tools & Technologies:** Machine Learning, Data Science, DSA, DBMS (MySQL), Web Development, PostmanAPI
-- **Soft Skills:** Problem-Solving, Communication, Leadership, Teamwork, Active Listening
+- **Tools & Technologies:** Machine Learning, Data Science, DSA, DBMS (MySQL), Web Development
+- **Soft Skills:** Problem-Solving, Communication, Teamwork, Active Listening, High sense of duty
 
 ## 📂 Projects
 - **IDFC Bank Credit Card Default Prediction**: Optimized real-world banking data using **Vaex** and **XGBoost**, handled class imbalance with **BorderlineSMOTE**, and built a **Random Forest ensemble model** for precise predictions.
@@ -14,7 +14,7 @@ I am a motivated second-year **B.Tech CSE student specializing in Artificial Int
 - **Sales Insights Dashboard**: Built an interactive **Power BI dashboard** to analyze corporate revenue trends, automate reports, and replace verbal insights with **data-driven visualizations**.
 
 ## 📜 Education
-- **B.Tech in Computer Science & Engineering (AIML)**, Sharda University (Currently in 2nd Year) – **CGPA: 9.2**
+- **B.Tech in Computer Science & Engineering (AIML)**, Sharda University (Currently in 2nd Year) – **CGPA: 8.7**
 - **12th CBSE (PCM): 89%**
 - **10th CBSE: 92%**
 
