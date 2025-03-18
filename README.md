@@ -32,9 +32,6 @@ I am a motivated second-year **B.Tech CSE student specializing in Artificial Int
 - **ULIP Logistics Hackathon 2.0** (2024)
 - **Smart India Hackathon** (2024)
 
-## 🌱 Extracurricular Activities
-- **Technova: SSET Technical Society**
-- **Fine Arts Club** (Sharda University)
 
 ## 📫 Contact Me
 - 📧 Email: [khushi7narang@gmail.com](mailto:khushi7narang@gmail.com)
