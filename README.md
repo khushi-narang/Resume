@@ -9,6 +9,7 @@ I am a motivated second-year **B.Tech CSE student specializing in Artificial Int
 - **Soft Skills:** Problem-Solving, Communication, Teamwork, Active Listening, High sense of duty
 
 ## 📂 Projects
+- **ISL Avatar**: Designing and implementing a system to convert spoken English into Indian Sign Language (ISL) using real-time speech recognition and gloss generation. 
 - **IDFC Bank Credit Card Default Prediction**: Optimized real-world banking data using **Vaex** and **XGBoost**, handled class imbalance with **BorderlineSMOTE**, and built a **Random Forest ensemble model** for precise predictions.
 - **Lecture Notes Organizer**: A Flask-based web app that digitizes handwritten notes using **Tesseract OCR**, enabling **advanced search and tagging**.
 - **Sales Insights Dashboard**: Built an interactive **Power BI dashboard** to analyze corporate revenue trends, automate reports, and replace verbal insights with **data-driven visualizations**.
